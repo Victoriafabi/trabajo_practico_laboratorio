@@ -1,0 +1,10 @@
+110,1245,100000.0,0,Matias_Ponce
+112,1111,10000.0,0,Jose_Lopez
+104,0245,500000.0,0,Marta_Perez
+141,7245,190000.0,0,Jose_Rios
+210,8245,200000.0,0,Lucas_Altamirano
+401,9245,105000.0,0,Pablo_Casas
+511,1145,100400.0,0,Julieta_Martin
+212,2245,110000.0,0,Ana_Del_Rio
+819,1244,180000.0,0,Marcelo_Gutierrez
+944,1255,900000.0,0,Juan_Martinez
